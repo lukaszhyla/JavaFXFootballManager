@@ -1,0 +1,8 @@
+1,Druzyna1,2017-05-01,raegraeg
+2,Drużyna2,2017-05-03,agaerge
+3,Drużyna3,2017-05-12,ragrgae
+4,Druzyna4,2017-05-01,raegraeg
+5,Drużyna5,2017-05-03,agaerge
+6,Drużyna6,2017-05-12,ragrgae
+7,Drużyna7,2017-05-12,ragrgae
+8,Druzyna8,2017-05-01,raegraeg
